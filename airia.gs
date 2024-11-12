@@ -1,6 +1,6 @@
 function airia(userInput) {
   var url = 'https://AIRIA-AGENT-URL-GOES-HERE'; // Replace with your API URL
-  var apiKey = 'ak-REAL_AIRIA_API_KEY_GOES_HERE';
+  var apiKey = 'ak-REAL_AIRIA_API_KEY_GOES_HERE'; // Replace with your Airia Agent Key
   var body = {
     "userInput": userInput
   };
