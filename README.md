@@ -3,6 +3,10 @@ Google App Script function to call the Airia API and populate a Google Sheet cel
   
 This README provides information about the `airia` function, which is designed to interact with the Airia API using Google Apps Script.
 
+## Use Cases
+- Google Sheet response to RFP's
+- Google Sheet response to Security Questions
+  
 ## What the Code Does
 
 The `airia` function is a Google Apps Script function that sends a user input to the Airia API and returns the result. Here's a breakdown of its functionality:
